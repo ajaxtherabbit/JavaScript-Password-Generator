@@ -1,4 +1,4 @@
-# Horiseon-Marketing-Agency
+# JavaScript Password Generator
 
 ## Description
 
