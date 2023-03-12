@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my submission for the Horiseon Website Week 1 Challenge. All source code is within the index.html file, and Assets/CSS folder. 
+This is my submission for the Java Script Code Generator. All source code is within the index.html file, script.js file and Assets/CSS folder. 
 
 ## Table of Contents (Optional)
 
@@ -38,7 +38,7 @@ n/a
 
 ## Features
 
-Updated HTML code indicating the semantic language used and comments relating to the reasons for each CSS element. 
+JavaScript code being used to generate a secure password at random. 
 
 ## How to Contribute
 
